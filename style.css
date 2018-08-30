@@ -59,7 +59,7 @@ header{
 		background-size: cover;
 		display:block;
 		width:100%;
-		background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("project in making/tween-fragrance-1145x532.jpg");
+		background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("pics/tween-fragrance-1145x532.jpg");
 	}
 
 	.textblock  {
@@ -123,7 +123,7 @@ color: #666;
 font-size: 14px;
 // vertical-align: middle;
 cursor: pointer;
-background: #f7f7f7 url(project%20in%20making/icons.png) no-repeat right -426px;
+background: #f7f7f7 url(pics/icons.png) no-repeat right -426px;
 border: 1px solid #d6d6d6;
 border-radius: 3px;}
 
@@ -340,7 +340,7 @@ height:30px;
 margin-right:5px; }
 
 .footer .socialmedia li a {
-background: url(project%20in%20making/icons.png) no-repeat;
+background: url(pics/icons.png) no-repeat;
 display:block;
 width:30px; 
 height:30px; }
